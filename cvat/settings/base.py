@@ -457,7 +457,7 @@ RESTRICTIONS = {
     'project_limit': None,
 
     # this setting reduces task visibility to owner and assignee only
-    'reduce_task_visibility': False,
+    'reduce_task_visibility': True,
 
     # allow access to analytics component to users with the following roles
     'analytics_access': (
